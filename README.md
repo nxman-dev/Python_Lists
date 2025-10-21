@@ -16,6 +16,14 @@ This repo contains exercises to learn how to work with lists in Python — from 
 | Task6_SliceList.py | Slice lists in different ways |
 | Task7_EverySecondNum.py | Print every second number from a list |
 | Task8_ReverseList.py | Reverse a list using slicing |
+| Task9_listInput.py      | Take user input to create a list                           |
+| Task10_SplitFunc.py     | Use the `split()` function to convert a string into a list |
+| Task11_sortingList.py   | Sort a list in ascending and descending order              |
+| Task12_Tuple.py         | Learn tuple creation and basic operations                  |
+| Task13_SumOfList.py     | Calculate the sum of numbers inside a list                 |
+| Task14_CountZero.py     | Count how many zeros are in a list                         |
+| Task15_unpackTuple.py   | Unpack tuple elements into variables                       |
+
 
 ## 🚀 What You Will Learn
 - Creating and accessing lists
